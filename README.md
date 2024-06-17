@@ -1,24 +1,9 @@
-# vue-shopping
+# 智慧商城
 
-## Project setup
+## 该项目是一个针对移动端用户设计的智慧商城应用
 ```
-npm install
-```
+使用Vue.js和相关移动端开发库（如Vue Router、Vuex）开发了应用的主要功能模块。
+优化了页面加载速度和性能，提升了用户体验。
+通过API与后端进行数据交互，实现了商品展示、搜索、购物车管理和订单处理等功能 并且使用使用 piain将数据持久化到本地。
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
